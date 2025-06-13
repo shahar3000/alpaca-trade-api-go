@@ -7,7 +7,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/shopspring/decimal"
+	decimal "github.com/alpacahq/alpacadecimal"
 
 	"github.com/alpacahq/alpaca-trade-api-go/v3/alpaca"
 	"github.com/alpacahq/alpaca-trade-api-go/v3/marketdata"

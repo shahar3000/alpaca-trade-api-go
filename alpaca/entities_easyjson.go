@@ -8,7 +8,7 @@ import (
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"
-	decimal "github.com/shopspring/decimal"
+	decimal "github.com/alpacahq/alpacadecimal"
 	time "time"
 )
 

@@ -15,7 +15,7 @@ import (
 
 	"cloud.google.com/go/civil"
 	"github.com/mailru/easyjson"
-	"github.com/shopspring/decimal"
+	decimal "github.com/alpacahq/alpacadecimal"
 )
 
 // ClientOpts contains options for the alpaca client

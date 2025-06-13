@@ -1,7 +1,7 @@
 package alpaca
 
 import (
-	"github.com/shopspring/decimal"
+	decimal "github.com/alpacahq/alpacadecimal"
 )
 
 // RoundLimitPrice calculates the limit price that respects the minimum price variance rule.

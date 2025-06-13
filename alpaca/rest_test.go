@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"cloud.google.com/go/civil"
-	"github.com/shopspring/decimal"
+	decimal "github.com/alpacahq/alpacadecimal"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

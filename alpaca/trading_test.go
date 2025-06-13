@@ -3,7 +3,7 @@ package alpaca
 import (
 	"testing"
 
-	"github.com/shopspring/decimal"
+	decimal "github.com/alpacahq/alpacadecimal"
 	"github.com/stretchr/testify/assert"
 )
 
