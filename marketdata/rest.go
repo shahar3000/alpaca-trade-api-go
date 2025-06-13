@@ -15,7 +15,7 @@ import (
 	"cloud.google.com/go/civil"
 	"github.com/mailru/easyjson"
 
-	"github.com/alpacahq/alpaca-trade-api-go/v3/alpaca"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/alpaca"
 )
 
 // ClientOpts contains options for the alpaca marketdata client.

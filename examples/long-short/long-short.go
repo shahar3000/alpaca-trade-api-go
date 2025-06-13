@@ -9,8 +9,8 @@ import (
 
 	decimal "github.com/alpacahq/alpacadecimal"
 
-	"github.com/alpacahq/alpaca-trade-api-go/v3/alpaca"
-	"github.com/alpacahq/alpaca-trade-api-go/v3/marketdata"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/alpaca"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/marketdata"
 )
 
 type longShortAlgo struct {

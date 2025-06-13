@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/alpacahq/alpaca-trade-api-go/v3/marketdata"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/marketdata"
 )
 
 func TestDefaultOptions(t *testing.T) {

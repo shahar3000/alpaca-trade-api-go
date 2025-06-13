@@ -11,9 +11,9 @@ import (
 	movingaverage "github.com/RobinUS2/golang-moving-average"
 	decimal "github.com/alpacahq/alpacadecimal"
 
-	"github.com/alpacahq/alpaca-trade-api-go/v3/alpaca"
-	"github.com/alpacahq/alpaca-trade-api-go/v3/marketdata"
-	"github.com/alpacahq/alpaca-trade-api-go/v3/marketdata/stream"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/alpaca"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/marketdata"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/marketdata/stream"
 )
 
 const (

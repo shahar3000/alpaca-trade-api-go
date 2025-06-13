@@ -9,7 +9,7 @@ import (
 
 	"github.com/coder/websocket"
 
-	"github.com/alpacahq/alpaca-trade-api-go/v3/alpaca"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/alpaca"
 )
 
 type coderWebsocketConn struct {

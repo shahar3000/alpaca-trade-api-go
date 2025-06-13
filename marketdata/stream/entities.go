@@ -3,7 +3,7 @@ package stream
 import (
 	"time"
 
-	"github.com/alpacahq/alpaca-trade-api-go/v3/marketdata"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/marketdata"
 )
 
 //go:generate go install github.com/mailru/easyjson/...@v0.7.7

@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/alpacahq/alpaca-trade-api-go/v3/marketdata"
-	"github.com/alpacahq/alpaca-trade-api-go/v3/marketdata/stream"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/marketdata"
+	"github.com/shahar3000/alpaca-trade-api-go/v3/marketdata/stream"
 )
 
 func main() {
