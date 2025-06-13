@@ -163,7 +163,7 @@ linters-settings:
         skipRecvDeref: false
 
   goimports:
-    local-prefixes: github.com/alpacahq/
+    local-prefixes: github.com/shahar3000/
 
   govet:
     # Enable all analyzers.
